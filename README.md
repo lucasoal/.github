@@ -17,7 +17,7 @@
   <!-- 2ª Linha -->
   <tr>
     <td align="center" width="50%" valign="top" style="border: none;">
-      <a href="https://pypi.org/project/igmappe" target="_blank">
+      <a href="https://pypi.org/project/igmapper" target="_blank">
         <img src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png?raw=true">
         <b>Igmapper</b>
       </a>
