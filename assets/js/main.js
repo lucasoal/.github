@@ -224,12 +224,15 @@
 $(document).ready(function () {
   $('.tech-logos').slick({
     slidesToShow: 6,
-    slidesToScroll: 1,
+    slidesToScroll: 2,
     autoplay: true,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 0,
+    speed: 3500,
+    cssEase: 'linear',
     arrows: false,
     dots: false,
-    pauseOnHover: true,
+    pauseOnHover: false,
+    infinite: true,
     responsive: [{
       breakpoint: 768,
       settings: {
