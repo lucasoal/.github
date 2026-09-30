@@ -1,5 +1,5 @@
 /**
-* Template Name: LucasLeal
+* Template Name: LL
 * Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
 * Updated: Feb 21 2025 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
